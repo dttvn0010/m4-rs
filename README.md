@@ -1,9 +1,8 @@
 ## Very simple Rust M4 demonstration.  
 
 ### Running project:  
-     ```  
      cargo run  
-     ```  
+     
 
 ### Expected result:  
 
