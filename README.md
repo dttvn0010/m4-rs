@@ -1,11 +1,11 @@
 ## Very simple Rust M4 demonstration.  
 
 ### Running project:  
-     `cargo run`
+     ```cargo run```
 
 ### Expected result:  
 
-
+```
 ===============================  
 Input macro:   
   
@@ -25,3 +25,4 @@ exch(arg1, arg2)
 Output result:  
   
 arg2, arg1  
+```
